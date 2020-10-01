@@ -9,7 +9,7 @@ A small writeup on what went into designing the name tags, posters and standee f
 
 <!--more-->
 
-![Standee at the summer school](/assets/images/sigchi-summer-school-hcai-standee.jpg)
+![Standee at the summer school](/blog/assets/images/sigchi-summer-school-hcai-standee.jpg)
 *The standee was placed at the conference room entrance at the India Habitat Center, New Delhi*
 
 The Summer school on "Expanding the Horizons of Human-Centered AI" was an HCI Across Borders event in cooperation with the ACM Future of Computing Academy. It took place in New Delhi, India, from July 24 to July 27 2019. It was hosted by the Indraprastha Institute of Information Technology in Delhi with the organizers being Neha Kumar (Georgia Tech) and Pushpendra Singh (IIIT-Delhi).
